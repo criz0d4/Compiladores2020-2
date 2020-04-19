@@ -1,0 +1,13 @@
+/*Texto de prueba*/
+
+#define
+#typedef
+
+int a,b;
+
+@if (a <= 9) {
+    b=12.5;
+}
+@else (a != 10){
+    b=(10.95/a);
+}
